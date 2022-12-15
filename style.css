@@ -1,0 +1,17 @@
+* {
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+#titleContainer {
+  margin: 50px auto 0;
+}
+
+#diceRollContainer {
+  margin: 50px auto;
+}
+
+#buttonContainer {
+  margin: 50px auto;
+}
